@@ -2,3 +2,5 @@
 # Embedded-Systems_Lab3
 # Embedded-Systems_Lab3
 # Embedded-Systems_Lab4
+# Digital-Ic-Design_Lab2
+# Digital-Ic-Design_Lab2
